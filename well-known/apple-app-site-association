@@ -3,10 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID": "YOUR_TEAM_ID.com.yourcompany.yourappclip",
+        "appID": "V8SY8THHL8.com.ourstartup.POV-App-Beta.Clip",
         "paths": [ "/clip/*" ]
       }
     ]
   }
 }
-
